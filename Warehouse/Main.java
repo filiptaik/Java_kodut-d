@@ -11,5 +11,6 @@ public class Main {
         warehouse1.addFridge(fridge2);
         warehouse1.addFridge(fridge2);
         warehouse1.removeFridge(fridge2);
+        warehouse1.removeFridge(fridge3);
     }
 }
